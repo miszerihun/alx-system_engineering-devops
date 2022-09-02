@@ -1,1 +1,1 @@
-Write a script that changes the group owner to school for the file hello
+Create a script that switches the current user to the user betty
