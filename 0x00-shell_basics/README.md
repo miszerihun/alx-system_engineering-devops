@@ -1,2 +1,1 @@
-Display current directory contents, including hidden files 
-
+Write a script that prints the type of the file named iamafile
