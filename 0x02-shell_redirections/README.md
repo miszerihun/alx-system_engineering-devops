@@ -1,1 +1,1 @@
-Write a script that deletes all the regular file
+Write a script that counts the number of directories and sub-directories
