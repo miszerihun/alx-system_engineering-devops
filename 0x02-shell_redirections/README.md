@@ -1,1 +1,1 @@
-Write a script that counts the number of directories and sub-directories
+Write a script that counts the number of directories
